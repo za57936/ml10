@@ -6,4 +6,4 @@
 
     Problem Statement
 
-In this assignment I have transformed iris data into 3 dimensions & plotted a 3d chart with transformed dimensions & colored each data point with specific class.
+In this assignment I have transformed iris data into 3 dimensions & plotted a 3d chart with transformed dimensions with coloring each data point with particular color
